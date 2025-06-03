@@ -73,7 +73,7 @@ Example Response:
 }
 ```
 ---
-## Technologies Used
+## Dependencies Used
 
 - python-dotenv
 - requests
